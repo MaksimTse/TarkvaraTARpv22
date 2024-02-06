@@ -24,3 +24,5 @@ Microsoft SQL Server
 Oracle Database
 MariaDB
 Project Management Tool - Projekti haldamise TA
+MS Project
+ProjectLibre

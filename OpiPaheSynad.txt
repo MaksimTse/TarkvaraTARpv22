@@ -7,22 +7,22 @@
 Проект по разработке - Arendusprojekt
 Проект по реализации - Realiseermisprojekt
 Диаграмма Ганта - Gantti diagramm
-критический путь проекта - projekti kriitiline tee
-виды рисков в проекте - projekti riskiliigid
-аутсортсинг - Allhanke
-краудсортсинг - rahvahanke
-ИТ аудит - IT-audiit
-ERP системы - ERP-süsteemid
-ROI для оценки проектов - projektide hindamiseks ROI
-Tacit - Süsteemid Tacit
-Knowledge Management System - KMS - teadmiste haldussüsteem
-cистемы управления базами данных - Andmebaaside haldussüsteemid
-MySQL
-MS Access
-PostgreSQL
-Microsoft SQL Server
-Oracle Database
-MariaDB
-Project Management Tool - Projekti haldamise TA
-MS Project
-ProjectLibre
+
+Модель - Mudel
+Схема или Диаграмма прецедентов - Kasutusmalliskeem - kasutuslooskeem
+Диаграмма активности / деятельности - Tegevusskeem
+Диаграмма последовательностей - Jadaskeem
+Диаграмма классов - Klassiskeem
+Диаграмма взаимодействий - Koostööskeem
+Диаграмма баз даннных - Andmebaasiskeem
+Сущность - Olem
+Связь - Seos
+Узор/Схема/Шаблон - Muster
+Черновик - Mustand
+Точка - Punkt
+Ромб - Romb
+Прямоугольник - Ristkülik
+Стрелка - Nool
+Линия - Joon
+Начальный узел- Algussõlm
+Овал - Ovaal

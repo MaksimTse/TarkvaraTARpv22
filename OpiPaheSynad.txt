@@ -26,3 +26,4 @@
 Линия - Joon
 Начальный узел- Algussõlm
 Овал - Ovaal
+План - Kavand

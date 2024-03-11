@@ -5,7 +5,7 @@
 ИТ проект - IT Projekt
 Бизнес-проект - Äriprojekt
 Проект по разработке - Arendusprojekt
-Проект по реализации - Realiseermisprojekt
+Проект по реализации - Realiseermisprojekt/Teostus
 Диаграмма Ганта - Gantti diagramm
 
 Модель - Mudel
